@@ -16,7 +16,7 @@
 
 **Developer independiente enfocado en crear soluciones técnicas, explorar nuevas áreas y aprender mediante la práctica.**
 
-[Mi Historia](#-mi-historia--evolución) • [Cómo Aprendo](#-filosofía-y-flujo-de-aprendizaje) • [Áreas](#-áreas-de-enfoque) • [Proyectos](#-proyectos) • [Freelance](#-servicios--freelance) • [Contacto](#-contacto)
+[Mi Historia](#-mi-historia--evolución) • [Cómo Aprendo](#-filosofía-y-flujo-de-aprendizaje) • [Áreas](#-áreas-de-enfoque) • [Proyectos](#-proyectos) • [Freelance](#-servicios--freelance)
 
 ---
 
@@ -170,7 +170,7 @@ De pequeños tests pasé a proyectos complejos: trabajé **un mes completo desar
 │  [Espacio reservado: añade aquí la descripción oficial de OpenKey]     │
 │                                                                        │
 │  Áreas:       [IA / Software / Seguridad / Web]                        │
-│  Repositorio: [https://github.com/tu-usuario/openkey]                  │
+│  Repositorio: https://github.com/MateoHdzC/openkey                     │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -210,8 +210,7 @@ Trabajo como developer independiente desarrollando soluciones a medida para pers
 * 🛠️ **Software & Herramientas:** Scripts y utilidades para resolver problemas operativos específicos.
 
 ```text
-¿Tenés un proyecto o querés colaborar?
-Contactame por cualquiera de los canales de abajo para conversar sobre la idea.
+Abierto a proyectos independientes, experimentos y colaboraciones técnicas.
 ```
 
 ---
@@ -223,20 +222,9 @@ Contactame por cualquiera de los canales de abajo para conversar sobre la idea.
 * 🚀 **Emprendimiento:** Creación de proyectos y modelos de desarrollo independiente.
 * 📚 **Investigación:** Curiosidad por cómo funcionan las cosas en distintas disciplinas.
 
----
-
-## 📫 Contacto
+<br />
 
 <div align="center">
-
-| Canal | Enlace / Identificador |
-| :--- | :--- |
-| ✉️ **Email Profesional** | `tu-email@ejemplo.com` |
-| 💼 **LinkedIn** | [linkedin.com/in/tu-perfil](https://linkedin.com/in/) |
-| 🌐 **Portfolio / Web** | [tu-portfolio.dev](https://tu-portfolio.dev) |
-| 🐙 **GitHub** | [github.com/tu-usuario](https://github.com/) |
-
-<br />
 
 ```text
 ──────────────────────────────────────────────────────────────────────────────
