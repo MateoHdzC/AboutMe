@@ -166,22 +166,17 @@ De pequeños tests pasé a proyectos complejos: trabajé **un mes completo desar
 ┌────────────────────────────────────────────────────────────────────────┐
 │  OPENKEY                                           [ ESTADO: ACTIVO ]  │
 ├────────────────────────────────────────────────────────────────────────┤
-│  Descripción:                                                          │
-│  [Espacio reservado: añade aquí la descripción oficial de OpenKey]     │
-│                                                                        │
-│  Áreas:       [IA / Software / Seguridad / Web]                        │
+│  Áreas:       IA • Software • Seguridad • Web                          │
 │  Repositorio: https://github.com/MateoHdzC/openkey                     │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
 <details>
-<summary><b>📂 Espacio para futuros proyectos y lanzamientos</b></summary>
+<summary><b>📂 Futuros proyectos y lanzamientos</b></summary>
 <br />
 
-*Este perfil se actualiza constantemente a medida que publico nuevos desarrollos.*
-
-* 🚀 **[Próximo Proyecto]** — *En fase de diseño y experimentación.*
-* 🧪 **[Labs & Experimentos]** — *Pruebas de concepto, integraciones de hardware y scripts utilitarios.*
+* Nuevos proyectos en fase de diseño, prototipado y experimentación activa.
+* Tests de concepto, integraciones de hardware y herramientas utilitarias.
 
 </details>
 
